@@ -82,3 +82,10 @@ world-layoffs-data-cleaning/
 - industry comparison dashboards  
 
 ---
+
+## data source
+
+kaggle – world layoffs dataset (2020–2025)  
+https://www.kaggle.com/datasets/swaptr/layoffs-2022
+
+---
