@@ -1,4 +1,4 @@
-# world layoffs data cleaning (sql project)
+# world layoffs data cleaning
 
 a real-world sql data cleaning project focused on transforming and standardizing global tech layoff data using industry-standard practices.
 
