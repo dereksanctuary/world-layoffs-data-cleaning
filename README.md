@@ -46,8 +46,8 @@ reflects data engineering and analytics workflows used in industry.
 
 world-layoffs-data-cleaning/
 │
-├── layoffs_raw.csv
-├── layoffs_staging.sql
+├── layoffs.csv
+├── layoffs_data_cleaning.sql
 └── README.md
 
 ---
